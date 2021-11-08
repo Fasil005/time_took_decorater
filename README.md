@@ -1,4 +1,4 @@
-## The Time Took Decorator helps you to find and print the time of taken for execution of a fucnction.
+## The Time Took Decorator helps you to find and print the time taken for the execution of a function.
 
 ### Clone this timetook.py into your project
 
